@@ -11,7 +11,7 @@ read
 
 echo "==============================================="
 echo "[!] Tiến hành cài đặt các gói library còn thiếu [!]"
-pkg install -y nodejs git wget
+pkg install -y php nodejs git wget
 
 git clone https://github.com/ProCoderMew/OneFile.git
 cd OneFile
