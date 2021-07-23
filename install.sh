@@ -11,7 +11,7 @@ read
 
 echo "==============================================="
 echo "[!] Tiến hành cài đặt các gói library còn thiếu [!]"
-pkg install -y libpixman libcairo pango xorgproto php libjpeg-turbo-progs libjpeg-turbo-static libjpeg-turbo librsvg librsvg-static nodejs git python wget
+pkg install -y nodejs git wget
 
 git clone https://github.com/ProCoderMew/OneFile.git
 cd OneFile
