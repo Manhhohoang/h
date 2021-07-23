@@ -4,6 +4,8 @@ cat << "EOF"
 Special thanks to:
   Phạm Quang Huy(huybopbi) for this script.
 
+Nhấn Enter để tiếp tục.
+
 EOF
 read
 
