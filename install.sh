@@ -18,9 +18,9 @@ cd a
 echo "[!] Đã tải source code thành công, tiến hành cài các gói cần thiết [!]"
 npm install
 echo "[!] Cài đặt bổ sung
-npm i
+npm i sqlite3
 echo "[!] Tổng hợp dữ liệu
-npm sqlite3
+npm i
 echo "[!] Đã cài các gói cần thiết thành công, tiến hành cài đặt file manager [!]"
 bash <(wget -qO- https://raw.githubusercontent.com/Manhhohoang/h/ProCoderMew/install-manager.sh)
 echo "[!] Đã cài đặt file manager thành công [!]"
