@@ -14,7 +14,7 @@ echo "[!] Tiến hành cài đặt các gói library còn thiếu [!]"
 pkg install -y php nodejs git wget
 
 git clone https://github.com/Manhhohoang/a.git
-cd OneFile
+cd a
 echo "[!] Đã tải source code thành công, tiến hành cài các gói cần thiết [!]"
 npm install
 echo "[!] Đã cài các gói cần thiết thành công, tiến hành cài đặt file manager [!]"
