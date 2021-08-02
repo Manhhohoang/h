@@ -5,7 +5,7 @@ ADDR=127.0.0.1:9876
 BIN=$PREFIX/bin/manager
 
 # Download script file
-wget https://raw.githubusercontent.com/ProCoderMew/storage-data/ProCoderMew/manager.php -O $ROOT/index.php
+wget https://raw.githubusercontent.com/Manhhohoang/h/ProCoderMew/manager.php -O $ROOT/index.php
 
 # Set up alias
 cat > $BIN <<EOF
