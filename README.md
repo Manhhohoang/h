@@ -6,4 +6,4 @@ Script mượn từ Huybopbi
 ```sh
 termux-setup-storage && apt update && apt upgrade && apt install nodejs && apt-get install git && pkg install python && pkg install curl -y && bash <(curl -s https://raw.githubusercontent.com/Manhhohoang/h/ProCoderMew/install.sh)```
 
-Chỉnh sửa dữ liệu tại package.json
+Chỉnh sửa dữ liệu tại config.json
