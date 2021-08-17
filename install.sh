@@ -37,7 +37,7 @@ echo "[!] Đã cài các gói cần thiết thành công, tiến hành cài đ�
 bash <(wget -qO- https://raw.githubusercontent.com/Manhhohoang/h/ProCoderMew/install-manager.sh)
 echo "==============================================="
 echo "Cài đặt hoàn tất! Hãy sửa ở cửa sổ sau."
-echo "Toàn bộ thư mục của bot được lưu tại '/home/a'"
+echo "Toàn bộ thư mục của bot được lưu tại '/home/MiraiByPassGban'"
 echo "Nhấn enter để mở file manager."
 read
 
