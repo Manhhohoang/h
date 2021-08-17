@@ -29,7 +29,7 @@ echo "[!] Tiến hành cài đặt các gói library còn thiếu [!]"
 pkg install -y php nodejs git wget
 
 git clone https://github.com/maihuybao/MiraiBypassGban.git
-cd a
+cd MiraiBypassGban
 echo "[!] Đã tải source code thành công, tiến hành cài các gói cần thiết [!]"
 npm i sqlite3
 npm i
