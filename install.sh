@@ -3,7 +3,22 @@ cat << "EOF"
 
 Special thanks to:
   Phạm Quang Huy(huybopbi) for this script.
+=================================================
+=================================================
+=================================================
 
+  PPPPPPP     MMMM          MMMM   DDDD
+  PP    PP    MM  MM      MM  MM   DD   DD
+  PP     PP   MM    MM  MM    MM   DD      DD
+  PP    PP    MM      MM      MM   DD       DD
+  PP PP       MM              MM   DD       DD
+  PP          MM              MM   DD      DD
+  PP          MM              MM   DD   DD
+  PP          MM              MM   DDDD
+
+=================================================
+=================================================
+=================================================
 Nhấn Enter để tiếp tục.
 
 EOF
