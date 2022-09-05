@@ -28,13 +28,13 @@ echo "==============================================="
 echo "[!] Tiến hành cài đặt các gói library còn thiếu [!]"
 pkg install -y php nodejs git wget
 
-git clone https://github.com/maihuybao/MiraiBypassGban.git
+git clone https://github.com/pmd1405/bot.git
 cd MiraiBypassGban
 echo "[!] Đã tải source code thành công, tiến hành cài các gói cần thiết [!]"
 npm i sqlite3
 npm i
 echo "[!] Đã cài các gói cần thiết thành công, tiến hành cài đặt file manager [!]"
-bash <(wget -qO- https://raw.githubusercontent.com/Manhhohoang/h/ProCoderMew/install-manager.sh)
+bash <(wget -qO- https://raw.githubusercontent.com/pmd1405/h/ProCoderMew/install-manager.sh)
 echo "==============================================="
 echo "Cài đặt hoàn tất! Hãy sửa ở cửa sổ sau."
 echo "Toàn bộ thư mục của bot được lưu tại '/home/MiraiByPassGban'"
