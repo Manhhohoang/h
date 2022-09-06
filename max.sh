@@ -1,2 +1,2 @@
-wget https://github.com/Manhhohoang/h/ProCoderMew/php.ini
+wget https://github.com/pmd1405/h/ProCoderMew/php.ini
 mv php.ini $PREFIX/lib
